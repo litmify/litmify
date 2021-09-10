@@ -6,7 +6,7 @@
 - President for [SPARCS](https://sparcs.org) in 2020.
 
 Hello, I'm a data software engineer who loves ducks.  
-I'm Currently digging data pipeline, logging platform, analysis platform, and other things related to data and software.
+I'm Currently digging Data engineering, DevOps, Data-based service, and other things related to data, software, and infurastructure.
 
 ### See more
 
