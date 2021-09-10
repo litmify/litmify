@@ -10,8 +10,9 @@ I'm Currently digging data pipeline, logging platform, analysis platform, and ot
 
 ### See more
 
-- **Home**: litmify.com
-- **Personal Blog**: blog.litmify.com
+- **Home**: [litmify.com](https://litmify.com)
+- **Personal Blog**: [blog.litmify.com](https://blog.litmify.com)
+- **LinkedIn**: [linkedin.com/in/litmify](https://www.linkedin.com/in/litmify) (Visible for Connections only)
 
 ---
 
