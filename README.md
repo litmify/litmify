@@ -10,10 +10,6 @@ I'm Currently digging Data engineering, DevOps, Data-based service, and other th
 
 ### See more
 
-- **Home**: [litmify.com](https://litmify.com)
-- **Personal Blog**: [blog.litmify.com](https://blog.litmify.com)
-- **LinkedIn**: [linkedin.com/in/litmify](https://www.linkedin.com/in/litmify) (Visible for Connections only)
-
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=litmify&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
