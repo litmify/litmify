@@ -2,11 +2,10 @@
 
 ### About me
 
-- Data Software Engineer working in [DEVSISTERS](https://devsisters.com).
+- Software Engineer.
 - President of [SPARCS](https://sparcs.org) in 2020.
 
-Hello, I'm a data software engineer who loves ducks.  
-I'm Currently digging Data engineering, DevOps, Data-based service, and other things related to data, software, and infurastructure.
+Hello, I'm a software engineer who loves ducks.  
 
 ### See more
 
