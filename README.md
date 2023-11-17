@@ -10,7 +10,6 @@ Hello, I'm a software engineer who loves ducks.
 ### See more
 
 - **Home**: [litmify.com](https://litmify.com)
-- **Personal Blog**: [blog.litmify.com](https://blog.litmify.com)
 - **LinkedIn**: [linkedin.com/in/litmify](https://www.linkedin.com/in/litmify) (Visible for Connections only)
 
 ---
