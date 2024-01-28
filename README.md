@@ -2,9 +2,6 @@
 
 ### About me
 
-- Software Engineer.
-- President of [SPARCS](https://sparcs.org) in 2020.
-
 Hello, I'm a software engineer who loves ducks.  
 
 ### See more
